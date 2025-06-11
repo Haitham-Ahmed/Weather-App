@@ -1,3 +1,4 @@
+
 import 'package:weather_app/models/weather_model.dart';
 
 class WeatherState{}
